@@ -1,0 +1,10 @@
+{
+  "name": "ThreadService",
+  "description": "Lightweight coroutine pool for Nodeal Framework — recycles threads to reduce allocation overhead across Spawn / Defer / Delay.",
+  "visibility": "PUBLIC",
+  "tags": [
+    "utility",
+    "threading",
+    "performance"
+  ]
+}
